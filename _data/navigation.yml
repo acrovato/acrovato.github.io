@@ -1,9 +1,7 @@
 main:
-  - title: "Engineering"
-    url: /engineering/
-  - title: "Aviation"
-    url: /aviation/
-  - title: "Martial arts"
-    url: /martial-arts/
+  - title: "About me"
+    url: /about/
+  - title: "Projects"
+    url: /projects/
   - title: "Resume"
     url: /cv/
