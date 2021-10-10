@@ -1,20 +1,16 @@
 ---
-layout: splash
+layout: single
 permalink: /
 hidden: true
 header:
-  overlay_image: https://gitlab.uliege.be/am-dept/waves/-/raw/master/dox/img.png #/assets/images/mm-home-page-feature.jpg
-excerpt: >
-  Aerospace engineer, private pilot and martial artist.<br />
+  image: /assets/pics/banner.jpg
+gallery:
+  - image_path: https://gitlab.uliege.be/am-dept/dartflo/-/raw/master/dox/title.png
+  - image_path: https://gitlab.uliege.be/am-dept/dartflo/-/raw/master/dox/title.png
+  - image_path: https://gitlab.uliege.be/am-dept/dartflo/-/raw/master/dox/title.png
+author_profile: true
+classes: wide
 ---
 
-<p style="text-align:left">
-<img src="https://avatars.githubusercontent.com/u/39187559?v=4" width="100">
-Text
-</p>
-<p style="text-align:center">
-<img src="https://avatars.githubusercontent.com/u/39187559?v=4" width="200">
-<img src="https://avatars.githubusercontent.com/u/39187559?v=4" width="200">
-<img src="https://avatars.githubusercontent.com/u/39187559?v=4" width="200">
-</p>
+{% include gallery id="gallery" class="full" %}
 
