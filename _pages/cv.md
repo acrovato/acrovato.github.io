@@ -23,9 +23,9 @@ University of Liège, 2015-Present
 *Supervision of various classes and projects (e.g. Aerospace Design Project, Master Thesis, etc.)*
 
 ## Languages
-**French**, native proficiency (estimated CEFR-C2)  
-**English**, full working proficiency (estimated CEFR-C1)  
-**Italian**, limited working proficiency (estimated CEFR-B1)
+**French** native proficiency (estimated CEFR-C2)  
+**English** full working proficiency (estimated CEFR-C1)  
+**Italian** limited working proficiency (estimated CEFR-B1)
 
 ## Awards
 **FRIA grant**  
@@ -38,29 +38,29 @@ University of Liège - Von Karman Institute, 2013-2014
 
 **AIAA Aircraft design competition**  
 University of Liège - American Institute of Aeronautics and Astronautics  
-*2nd prize, 2016-2017, Buisness jet family (as superviser)*  
-*2nd prize, 2017-2018, Military jet trainer (as superviser)*  
-*2nd prize, 2018-2019, VTOL electric air taxi (as superviser)*  
-*3rd prize, 2018-2019, VTOL electric air taxi (as superviser)*  
-*2nd prize, 2019-2020, GA trainer family (as superviser)*  
 *3rd prize, 2020-2021, Regional aircraft family (as superviser)*  
+*2nd prize, 2019-2020, GA trainer family (as superviser)*  
+*3rd prize, 2018-2019, VTOL electric air taxi (as superviser)*  
+*2nd prize, 2018-2019, VTOL electric air taxi (as superviser)*  
+*2nd prize, 2017-2018, Military jet trainer (as superviser)*  
+*2nd prize, 2016-2017, Buisness jet family (as superviser)*
 
 ## Skills
 **Aircraft design**  
-general methodology for conceptual design  
-aerostructural and aerodynamic modeling for preliminary design  
+- general methodology for conceptual design  
+- aerostructural and aerodynamic modeling for preliminary design  
 
 **Code development**  
-extensive experience in C++ and Python (e.g. [DARTFlo](https://gitlab.uliege.be/am-dept/dartflo), [CUPyDO](https://github.com/ulgltas/CUPyDO), etc.)  
-major experience in MATLAB  
-minor experience in Flutter (dart) and Qt (C++/QML)
+- extensive experience in C++ and Python (e.g. [DARTFlo](https://gitlab.uliege.be/am-dept/dartflo), [CUPyDO](https://github.com/ulgltas/CUPyDO), etc.)  
+- major experience in MATLAB  
+- minor experience in Flutter (dart) and Qt (C++/QML)
 
 **Software**  
-presentation - Latex, Word, Powerpoint  
-engineering - Excel, MATLAB, Git  
-aerodynamic modeling - SU2, openFOAM, Fluent/CFX  
-multiphysics - openMDAO
-computer-aided design - CATIA
+- presentation - Latex, Word, Powerpoint  
+- engineering - Excel, MATLAB, Git  
+- aerodynamic modeling - SU2, openFOAM, Fluent/CFX  
+- multiphysics - openMDAO
+- computer-aided design - CATIA
 
 ## About Me
 **Aikido**  
