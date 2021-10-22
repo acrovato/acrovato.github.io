@@ -5,9 +5,9 @@ hidden: true
 header:
   image: /assets/pics/banner.jpg
 gallery:
-  - image_path: https://gitlab.uliege.be/am-dept/dartflo/-/raw/master/dox/title.png
-  - image_path: https://gitlab.uliege.be/am-dept/dartflo/-/raw/master/dox/title.png
-  - image_path: https://gitlab.uliege.be/am-dept/dartflo/-/raw/master/dox/title.png
+  - image_path: /assets/pics/aero0.png
+  - image_path: /assets/pics/fly0.jpg
+  - image_path: /assets/pics/aiki0.jpg
 author_profile: true
 classes: wide
 ---
