@@ -86,9 +86,11 @@ footer:
       url: "https://gitlab.uliege.be/acrovato"
 
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+#theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "air"
 plugins:
+  - jekyll-include-cache
   - jekyll-feed
 include: ["_pages"]
 
