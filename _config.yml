@@ -40,7 +40,7 @@ defaults:
       toc: false
 
 ## Search
-search: true
+search: false
 social:
   type: Person
   name: Adrien Crovato

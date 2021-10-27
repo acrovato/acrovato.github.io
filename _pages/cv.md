@@ -75,4 +75,5 @@ University of Liège - American Institute of Aeronautics and Astronautics
 
 **Private pilot**  
 2017-Present  
-*Ratings: night*
+*Ratings: SEP, night*  
+*ELP: level 6*
