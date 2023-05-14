@@ -17,7 +17,7 @@ University of Liège, 2013-2015
 University of Liège, 2010-2013
 
 ## Experience
-**Substitue Professor**  
+**Substitute Professor**  
 University of Liège, 2022-2023  
 *Flight Dynamics, Aerothermodynamics of high-speed flows*
 
