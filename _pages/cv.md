@@ -17,6 +17,10 @@ University of Liège, 2013-2015
 University of Liège, 2010-2013
 
 ## Experience
+**Substitue Professor**  
+University of Liège, 2022-2023  
+*Flight Dynamics, Aerothermodynamics of high-speed flows*
+
 **Research Engineer and Teaching Assistant**  
 University of Liège, 2015-Present  
 *Development of aeroelastic modeling tools for preliminary aircraft design, in collaboration with Embraer S.A.*  
@@ -38,6 +42,7 @@ University of Liège - Von Karman Institute, 2013-2014
 
 **AIAA Aircraft design competition**  
 University of Liège - American Institute of Aeronautics and Astronautics  
+*2nd prize, 2021-2022, STOL hybrid air taxi (as superviser)*  
 *3rd prize, 2020-2021, Regional aircraft family (as superviser)*  
 *2nd prize, 2019-2020, GA trainer family (as superviser)*  
 *3rd prize, 2018-2019, VTOL electric air taxi (as superviser)*  
@@ -66,7 +71,7 @@ University of Liège - American Institute of Aeronautics and Astronautics
 - presentation - Latex, Word, Powerpoint
 - engineering - Excel, MATLAB, Git
 - aerodynamic modeling - SU2, Tranair/Panair, openFOAM, Fluent/CFX
-- multiphysics - openMDAO
+- multiphysics - OpenMDAO
 - computer-aided design - CATIA, AutoCAD
 
 ## About Me

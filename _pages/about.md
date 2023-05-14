@@ -22,7 +22,7 @@ galleryMA2:
 I began studying engineering at the University of Liège, in 2010. During my Bachelor, which I completed in June 2013, I chose to focus on mechanical and electrical engineering sciences. I then joined the Master in aerospace engineering, from which I graduated in June 2015. Afterwards, I started a Ph.D. in aerospace engineering with Prof. Grigorios Dimitriadis and Prof. Vincent Terrapon. I performed my Ph.D. in their research groups (*i.e.* [AEA](http://www.ltas-aea.ulg.ac.be/cms/) and [MTFC](https://www.mtfc.uliege.be/)), and in collaboration with the R&D department of Embraer S.A., the Brazilian aircraft manufacturer. Alongside my research, I also taught some classes and supervized different projects. The goal of [my thesis](http://hdl.handle.net/2268/251906) was to investigate the effect of the different levels of fidelity in aerodynamic modeling on aerostructural calculations applied to preliminary aircraft design. The main outcome of the research work is the development and implementation of an efficient aerodynamic modeling tool: [DARTFlo](https://gitlab.uliege.be/am-dept/dartflo). I obtained my doctoral degree in aerospace engineering in December 2020.
 {: .text-justify}
 
-I currently work at the University of Liège where I continue to collaborate with Embraer as a post-doctoral researcher. Our goal is to develop a new, fast and flexible, aerostructural optimization framework, able to tackle the challenges posed by modern aircraft design. Besides, I also continue to supervize Master students through the Aerospace Design Project, and through their Master thesis.
+I currently work at the University of Liège where I continue to collaborate with Embraer as a post-doctoral researcher. Our goal is to develop a new, fast and flexible, aerostructural optimization framework, able to tackle the challenges posed by modern aircraft design. Besides, I also continue to supervize Master students through the Aerospace Design Project, and through their Master thesis. Additonally, I also acted as Substitue Professor for the course of Flight Dynamics during the academic year 2022-2023.
 {: .text-justify}
 
 <img src="https://gitlab.uliege.be/am-dept/dartflo/-/raw/master/dox/title.png">
@@ -34,7 +34,7 @@ I currently work at the University of Liège where I continue to collaborate wit
 When I was 15, I used to dream about becoming a fighter pilot. Even if I eventually decided to be an aerospace engineer, I never really forgot about flying aircraft. In September 2017, during my Ph.D., I started to take classes to get my Private Pilot License. After two years of spurious flight sessions (thanks to the famous Belgian weather!), I successfully passed my skill test and got the license in September 2019. Right after that, I passed my night rating in December.
 {: .text-justify}
 
-I currently conduct flights from Liège Airport (EBLG) and the aerodrome of Namur (EBNM), where I additionally follow classes to get an aerobatic rating.
+I currently conduct flights from Liège Airport (EBLG). In the past, I also flew from the aerodrome of Namur (EBNM), where I followed classes to get an aerobatic rating.
 {: .text-justify}
 
 <img src="/assets/pics/fly1.jpg">

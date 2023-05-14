@@ -11,11 +11,11 @@ galleryFluttair:
     image_path: https://media.githubusercontent.com/media/acrovato/fluttair/master/demo/db3.png
 galleryEnroute:
   - url: https://akaflieg-freiburg.github.io/enroute/
-    image_path: https://raw.githubusercontent.com/Akaflieg-Freiburg/enroute/master/propaganda/GooglePlay/phone-00-Flight.png
+    image_path: https://raw.githubusercontent.com/Akaflieg-Freiburg/enroute/main/propaganda/GooglePlay/phone-00-Flight.png
   - url: https://akaflieg-freiburg.github.io/enroute/
-    image_path: https://raw.githubusercontent.com/Akaflieg-Freiburg/enroute/master/propaganda/GooglePlay/phone-02-Map.png
+    image_path: https://raw.githubusercontent.com/Akaflieg-Freiburg/enroute/main/propaganda/GooglePlay/phone-02-Map.png
   - url: https://akaflieg-freiburg.github.io/enroute/
-    image_path: https://raw.githubusercontent.com/Akaflieg-Freiburg/enroute/master/propaganda/GooglePlay/phone-03-Info.png
+    image_path: https://raw.githubusercontent.com/Akaflieg-Freiburg/enroute/main/propaganda/GooglePlay/phone-03-Info.png
 ---
 
 ## DARTFlo
