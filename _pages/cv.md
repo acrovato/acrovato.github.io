@@ -42,6 +42,9 @@ University of Liège - Von Karman Institute, 2013-2014
 
 **AIAA Aircraft design competition**  
 University of Liège - American Institute of Aeronautics and Astronautics  
+*1st prize, 2022-2023, Disaster search and identification vehicle (Dr. SAAV) (as superviser)* 
+*2nd prize, 2022-2023, Disaster search and identification vehicle (Dr. SAAV) (as superviser)* 
+*3rd prize, 2022-2023, Disaster search and identification vehicle (Dr. SAAV) (as superviser)*  
 *2nd prize, 2021-2022, STOL hybrid air taxi (as superviser)*  
 *3rd prize, 2020-2021, Regional aircraft family (as superviser)*  
 *2nd prize, 2019-2020, GA trainer family (as superviser)*  
@@ -60,7 +63,7 @@ University of Liège - American Institute of Aeronautics and Astronautics
 
 **Aircraft design**  
 - general methodology for conceptual design
-- aerostructural and aerodynamic modeling for preliminary design
+- aerostructural and aerodynamic modeling/optimization for preliminary design
 
 **Code development**  
 - extensive experience in C++ and Python (e.g. [DARTFlo](https://gitlab.uliege.be/am-dept/dartflo), [CUPyDO](https://github.com/ulgltas/CUPyDO), etc.)
@@ -70,7 +73,7 @@ University of Liège - American Institute of Aeronautics and Astronautics
 **Software**  
 - presentation - Latex, Word, Powerpoint
 - engineering - Excel, MATLAB, Git
-- aerodynamic modeling - SU2, Tranair/Panair, openFOAM, Fluent/CFX
+- aerodynamic modeling - SU2, Tranair/Panair, OpenFOAM, Fluent/CFX
 - multiphysics - OpenMDAO
 - computer-aided design - CATIA, AutoCAD
 

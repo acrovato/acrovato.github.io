@@ -25,7 +25,7 @@ I began studying engineering at the University of Liège, in 2010. During my Bac
 I currently work at the University of Liège where I continue to collaborate with Embraer as a post-doctoral researcher. Our goal is to develop a new, fast and flexible, aerostructural optimization framework, able to tackle the challenges posed by modern aircraft design. Besides, I also continue to supervize Master students through the Aerospace Design Project, and through their Master thesis. Additonally, I also acted as Substitue Professor for the course of Flight Dynamics during the academic year 2022-2023.
 {: .text-justify}
 
-<img src="https://gitlab.uliege.be/am-dept/dartflo/-/raw/master/dox/title.png">
+<img src="https://acrovato.github.io/assets/pics/dart.png">
 
 {% include gallery id="galleryAero" %}
 <figcaption style="text-align:center">Aeroelastic optimization of a benchmark wing.</figcaption>
