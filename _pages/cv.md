@@ -18,7 +18,7 @@ University of Liège, 2010-2013
 
 ## Experience
 **Substitute Professor**  
-University of Liège, 2022-2023  
+University of Liège, 2022-2024  
 *Flight Dynamics, Aerothermodynamics of high-speed flows*
 
 **Research Engineer and Teaching Assistant**  
@@ -42,16 +42,16 @@ University of Liège - Von Karman Institute, 2013-2014
 
 **AIAA Aircraft design competition**  
 University of Liège - American Institute of Aeronautics and Astronautics  
-*1st prize, 2022-2023, Disaster search and identification vehicle (Dr. SAAV) (as superviser)* 
-*2nd prize, 2022-2023, Disaster search and identification vehicle (Dr. SAAV) (as superviser)* 
-*3rd prize, 2022-2023, Disaster search and identification vehicle (Dr. SAAV) (as superviser)*  
-*2nd prize, 2021-2022, STOL hybrid air taxi (as superviser)*  
-*3rd prize, 2020-2021, Regional aircraft family (as superviser)*  
-*2nd prize, 2019-2020, GA trainer family (as superviser)*  
-*3rd prize, 2018-2019, VTOL electric air taxi (as superviser)*  
-*2nd prize, 2018-2019, VTOL electric air taxi (as superviser)*  
-*2nd prize, 2017-2018, Military jet trainer (as superviser)*  
-*2nd prize, 2016-2017, Buisness jet family (as superviser)*
+*1st prize, 2022-2023, Disaster search and identification vehicle (Dr. SAAV) (as supervisor)*  
+*2nd prize, 2022-2023, Disaster search and identification vehicle (Dr. SAAV) (as supervisor)*  
+*3rd prize, 2022-2023, Disaster search and identification vehicle (Dr. SAAV) (as supervisor)*  
+*2nd prize, 2021-2022, STOL hybrid air taxi (as supervisor)*  
+*3rd prize, 2020-2021, Regional aircraft family (as supervisor)*  
+*2nd prize, 2019-2020, GA trainer family (as supervisor)*  
+*3rd prize, 2018-2019, VTOL electric air taxi (as supervisor)*  
+*2nd prize, 2018-2019, VTOL electric air taxi (as supervisor)*  
+*2nd prize, 2017-2018, Military jet trainer (as supervisor)*  
+*2nd prize, 2016-2017, Buisness jet family (as supervisor)*
 
 ## Skills
 **Personal**  
@@ -79,9 +79,7 @@ University of Liège - American Institute of Aeronautics and Astronautics
 
 ## About Me
 **Aikido**  
-2008-Present
 
 **Private pilot**  
-2017-Present  
 *Ratings: SEP, night*  
 *ELP: level 6*
